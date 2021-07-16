@@ -2,7 +2,7 @@
 
 1.Data Processing:
 
-(a)Processing the data about some videos and get some information from them.
+(a)Process the data about some videos and get some information from them.
 
 (b)"USvideo.csv" should be in the same layer as your code.
 
